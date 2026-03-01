@@ -8,7 +8,7 @@ I am a passionate Full Stack Web Developer with hands-on experience in building 
 
 ## 👨‍💻 About Me  
 - 🎓 B.Tech in Computer Science Engineering  
-- 💼 Full Stack Web Developer Intern  
+- 💼 Software Developer Associate : Innosecure Technologies  
 - 🌱 Currently working on **MERN Stack projects**  
 - 💡 Strong foundation in **Java, OOP, DBMS, and Backend Development**  
 - ⚡ Love building real-world applications and learning by doing  
